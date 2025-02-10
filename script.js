@@ -19,3 +19,17 @@ const dog = {
 
 let frukt = ["eple", "banan", "ananas", "pære"];
 let spill = ["Elden Ring", "BG3", "Detroit: Human", "Dark Souls"];
+
+console.log(string1);
+console.log(string2);
+console.log(string3);
+console.log(integer1);
+console.log(integer2);
+console.log(person.name);
+console.log(person.age);
+console.log(person.hair);
+console.log(dog.type);
+console.log(dog.height);
+console.log(dog.weight);
+console.log(frukt);
+console.log(spill);
